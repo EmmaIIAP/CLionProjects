@@ -1,41 +1,40 @@
 #include <iostream>
 using namespace std;
-
-//mutqagrvac bnakan tvi hamar tpel shabtva vor orna 1-kiraki
+//Hw2
 int main() {
-    unsigned int a,b,c;
-    cin>>a>>b;
+    // 1. d-in veragrel max(a,b,c)
+    /*
+    int a,b,c,d;
+    cin>>a>>b>>c;
+    d = a>b?a>c?a:c:b;
+    cout<<d;
+     */
 
-   /* a%=7;
-    if(a%7==0)
-        a=1;
-    switch(a%7) {
+    //2. mutqagrel 10 tive [1,12] mijakayqum, switch case i ognutyamb , mutqagrvac tvi exxanak@ tpel
+    int num;
+    cin>>num;
+    switch(num){
         case 1:
-            cout << "sunday";
-            break;
         case 2:
-            cout << "monday";
-            break;
         case 3:
-            cout << "tuesday";
+            cout<<"winter";
             break;
         case 4:
-            cout << "wednesday";
-            break;
         case 5:
-            cout << "thursday";
-            break;
         case 6:
-            cout << "friday";
+            cout<<"spring";
             break;
         case 7:
-            cout << "saturday";
+        case 8:
+        case 9:
+            cout<<"summer";
+            break;
+        case 10:
+        case 11:
+        case 12:
+            cout<<"autumn";
             break;
         default:
-            cout<<"not a natural";
-    }*/
-   a>b?cout<<a<<endl:cout<<b<<endl;
-   c=a>b?a:b;
-   cout<<c;
-   //a>b?a>c?cout<<a:cout<<c:cout<<b;
+            cout<<"out of bounds of 12 month";
+    }
 }
