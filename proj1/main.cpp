@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//prints max of 3 els
 int main() {
     int a,b,c;
     cin>>a>>b>>c;
