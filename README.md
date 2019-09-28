@@ -1,6 +1,6 @@
 # CLionProjects
 
-Here I am going to share the problems and solutions I come up with, while learning C++.
+<b> Here I am going to share the problems and solutions I come up with, while learning C++.</b>
 
 Below I'll instroduce general concepts that each folder/proj includes. </br>
 More detailed info can be found in the comments of each folder.
