@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 int main() {
-    //print the digits of a num
+    //Print the digits of a num
     /*
     int num,r;//134
     cin>>num;
