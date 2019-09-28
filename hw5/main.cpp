@@ -3,10 +3,10 @@
 using namespace std;
 int main() {
     int num;
-    cout<<"Enter the number of el-s in an array: "<<endl;
+    cout<<"Enter the number of el-s in an array:"<<endl;
     cin>>num;
     int *arr=new int(num);
-    cout<<"Enter the elements of the array: ";
+    cout<<"Enter the elements of the array:";
     for(int i=0;i<num;i++){
         cin>>*(arr+i);
     }
