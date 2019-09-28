@@ -12,7 +12,7 @@ int main() {
     for (int z = 0; z <sz ; ++z) {
         ptr[z]=new int[sz];
         if(!ptr[z])
-            std::cout<<"something wnet wrong for ptr["<<z<<']'<<std::endl;
+            std::cout<<"something went wrong for ptr["<<z<<']'<<std::endl;
         assert(ptr[z]);
     }
 
