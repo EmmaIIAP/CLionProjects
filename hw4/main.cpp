@@ -2,7 +2,7 @@
 #include <cmath>
     using namespace std;
     int main() {
-        //2. check whether the num is perfect
+        //2. Check whether the num is perfect
         // (kataryal e ayn tive vore havasar e baci iranic mnacac bolor bajanararneri gumarin)
         /*
         int num,sum;
