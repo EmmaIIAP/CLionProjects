@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 int main() {
-    //Pointers & References
+    //Pointers/References
     /*
     int b=7;
     int* a = &b;
