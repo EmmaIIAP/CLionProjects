@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//***POINTERS***
+//**POINTERS**
 //int n=10;
 //const int size=n;
 int main() {
