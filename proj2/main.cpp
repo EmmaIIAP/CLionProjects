@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Hw2
+//HW2
 int main() {
     // 1. assign max(a,b,c) to d
     /*
