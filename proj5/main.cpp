@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
     /*
-    cout<<"How many numbers should your array contain?"<<endl;
+    cout<<"how many numbers should your array contain?"<<endl;
     int num;
     cin>>num;
     const int size=num;
