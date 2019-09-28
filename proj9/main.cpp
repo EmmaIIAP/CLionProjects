@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <assert.h>
-//void functions
+//Void functions
 void detectAction(char,int,int);
 void sum(int,int);
 void sub(int,int);
