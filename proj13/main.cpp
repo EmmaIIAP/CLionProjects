@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Recursion
+//Recursion!
 //1. print the digits of a number vertically using recursion
 void writeVertical(int n){
     if(n<10) {
