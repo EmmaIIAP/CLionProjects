@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d84ed0-9651-4131-9aa5-e64efc977501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proj2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proj2.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/proj2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/proj2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj8/cmake-build-debug/CMakeFiles/proj8.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../proj8/cmake-build-debug/CMakeFiles/proj8.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj8/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../proj8/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +76,7 @@
       <workItem from="1569947327760" duration="56000" />
       <workItem from="1570114654369" duration="726000" />
       <workItem from="1570171893049" duration="393000" />
+      <workItem from="1570566744052" duration="12000" />
     </task>
     <servers />
   </component>

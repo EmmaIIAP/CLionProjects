@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//ternary operator is the only operator that returns a value and can be assigned
+//ternary op is the only operator that returns a value and can be assigned
 int main() {
     // 1. assign max(a,b,c) to d
     int a,b,c,d;
