@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-//Find GCD using Euclid's algo
-//Find LCM
+//Find GCD/LCM using Euclid's algo
 int insert_num(int val){
     cin>>val;
 }
