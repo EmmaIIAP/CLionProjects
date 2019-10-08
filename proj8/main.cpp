@@ -1,8 +1,10 @@
 #include <iostream>
 #include <cmath>
 #include <assert.h>
+using namespace std;
 //dynaomic matrices
 int main() {
+    /*
     int sz=10;
     int **ptr=new int*[sz];
     if(!ptr) {
@@ -57,5 +59,33 @@ int main() {
     }
     delete ptr;
     return 0;
+    */
+    // 452. Given mxm matrix. Output the sum of squares of first and last el.
+    /*
+    int sz=3,sum=0;
+    int **matr =new int *[sz];
+    for(int i=0;i<sz;i++){
+        matr[i]=new int[i];
+    }
+    for(int i=0;i<sz;i++){
+        for(int j=0;j<sz;j++){
+            matr[i][j]=rand()%10;
+        }
+    }
+    for(int i=0;i<sz;i++){
+        for(int j=0;j<sz;j++){
+            cout<<matr[i][j]<<' ';
+        }
+        cout<<endl;
+    }
+    for(int i=0;i<sz;i++){
+        for(int j=0;j<sz;j++){
+            if(((i==j)&&(i==0)) || ((i==j)&&(i==(sz-1)))){
+                sum+=pow(matr[i][j],2);
+            }
+        }
+    }
+    cout<<"sum of squares of first and last elements of a matrix:"<<sum<<endl;
+    */
 }
 
